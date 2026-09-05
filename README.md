@@ -4,6 +4,7 @@ Backend for Pizza4You, a pizza ordering system connecting an Angular web applica
 
 > Built as a final project for 2nd year DAM (Cross-platform Application Development).
 
+Ps. Project is still "unfinished", still working on publishing the web and android app.
 ## Preview
 
  Database Entity-Relation diagram: 
