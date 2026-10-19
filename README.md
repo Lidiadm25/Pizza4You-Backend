@@ -43,7 +43,7 @@ Ps. Project is still "unfinished", still working on publishing the web and andro
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/Pizza4You.git
+   git clone https://github.com/your-username/Pizza4You-Backend.git    
    cd Pizza4You
    ```
 
